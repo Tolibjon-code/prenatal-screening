@@ -1,0 +1,3 @@
+# Бу файл Streamlit Cloud учун зарур эмас
+# Local учун зарур бўлса:
+# libsqlite3-mod-spatialite
